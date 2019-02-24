@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Builder": {
+      "commandName": "Project",
+      "commandLineArgs": "html"
+    }
+  }
+}

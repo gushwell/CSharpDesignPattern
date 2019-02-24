@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Strategy": {
+      "commandName": "Project",
+      "commandLineArgs": "314 15"
+    }
+  }
+}

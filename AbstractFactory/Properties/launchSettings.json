@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AbstractFactory": {
+      "commandName": "Project",
+      "commandLineArgs": "Gushwell.DesignPatterns.Table.TableFactory"
+    }
+  }
+}
