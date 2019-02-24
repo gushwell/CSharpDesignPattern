@@ -17,7 +17,7 @@ Prototype	| コピーしてインスタンスを作る
 Builder	| 複雑なインスタンスを組み立てる
 Abstract Factory	| 関連する部品を組み合わせて製品を作る
 ■構造に関するパターン| 
-Adapter	| 皮かぶせて再利用
+Adapter	| 皮かぶせて再利用 (OtherAdapterとして別バージョンも掲載)
 Bridge	| 機能の階層と実装の階層を分ける
 Composite	| 容器と中身の同一視
 Decorator	| 飾り枠と中身の同一視
